@@ -2,7 +2,7 @@
 
 El robot avanza durante 2 segundos, para 1 segundo y repite.
 
-## Qué aprendes
+## ¿Qué se aprende en este repo?
 - Librería Servo.h
 - Control de servos de rotación continua
 - Por qué una rueda usa 0 y la otra 180 para ir en la misma dirección

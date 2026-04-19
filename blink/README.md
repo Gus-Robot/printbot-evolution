@@ -2,7 +2,7 @@
 
 Parpadea el LED integrado de la placa cada segundo.
 
-## Qué aprendes
+## ¿Qué se aprende en este repo?
 - Estructura básica de un sketch (setup/loop)
 - pinMode y digitalWrite
 - delay
