@@ -7,3 +7,4 @@ Placa: ZUM BT-328 (compatible Arduino Uno)
 - **blink** → parpadeo del LED integrado
 - **movimiento** → movimiento básico con servos de ruedas
 - **giro** → giro pivote izquierda y derecha
+- **zumbador**  → 3 pitidos con pause usando bucle for
