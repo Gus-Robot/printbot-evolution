@@ -9,3 +9,4 @@ Placa: ZUM BT-328 (compatible Arduino Uno)
 - **giro** → giro pivote izquierda y derecha
 - **zumbador**  → 3 pitidos con pause usando bucle for
 - **luz** → lectura de sensores LDR por Monitor Serie
+- **ultrasonido** → lectura de distancia por Monitor Serie
