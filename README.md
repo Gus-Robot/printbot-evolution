@@ -10,3 +10,4 @@ Placa: ZUM BT-328 (compatible Arduino Uno)
 - **zumbador**  → 3 pitidos con pause usando bucle for
 - **luz** → lectura de sensores LDR por Monitor Serie
 - **ultrasonido** → lectura de distancia por Monitor Serie
+- **infrarrojo** → lectura de sensores IR por Monitor Serie
