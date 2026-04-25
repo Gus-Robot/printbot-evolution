@@ -11,3 +11,4 @@ Placa: ZUM BT-328 (compatible Arduino Uno)
 - **luz** → lectura de sensores LDR por Monitor Serie
 - **ultrasonido** → lectura de distancia por Monitor Serie
 - **infrarrojo** → lectura de sensores IR por Monitor Serie
+- **huye_luz** → el robot huye de la fuente de luz con sensores LDR
