@@ -13,12 +13,12 @@ void loop() {
   if (Serial.available()) {
     char comando = Serial.read();
 
-    if (comando == 'U') {
+    if (comando == 'F') {
       // Adelante
       ruedaIzquierda.write(180);
       ruedaDerecha.write(0);
     }
-    else if (comando == 'D') {
+    else if (comando == 'B') {
       // Atras
       ruedaIzquierda.write(0);
       ruedaDerecha.write(180);
